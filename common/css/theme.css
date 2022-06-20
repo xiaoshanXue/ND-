@@ -1,0 +1,20 @@
+.blueTheme {
+	background-color: #1e90ff;
+	color: rgba(255, 255, 255, 0.7);
+}
+.eyeHelpTheme {
+	background-color: #d1ccc0;
+	color: #2c2c54;
+}
+.lightGretTheme {
+	background-color: #747d8c;
+	color: rgba(255, 255, 255, 0.7);
+}
+.morningTheme {
+	background-color: #f8f9fa;
+	color: #2c2c54;
+}
+.nightTheme {
+	background-color: #4C5662;
+	color: #c1cbcd;
+}
